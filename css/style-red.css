@@ -3,7 +3,16 @@
 /*======================================
 //--//-->   STYLES GENERALES
 ======================================*/
+.modal-content {
+  max-width: 95%;
+  max-height: 95vh;
+  margin: auto;
+}
 
+.modal-body img {
+  max-height: 80vh;
+  width: auto;
+}
 body {
   background-color: #f5f5f5;
   color: #4e4e4e;
